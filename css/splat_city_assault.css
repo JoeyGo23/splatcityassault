@@ -4,12 +4,20 @@ body{
 } /*body close tag*/
 
 .header_top{
-	width: 100%;
+	text-align: center;
 }
 
 .header_images img{
-	width: 33%;
-	height: 100px;
+	margin-top: 50px;
+	width: 50%;
+	height: 75%;
+}
+
+.header_BADGE img{
+	margin-top: 25px;
+	width: 80%;
+	height: 100%;
+
 }
 
 
