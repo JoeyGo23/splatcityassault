@@ -4,7 +4,12 @@ body{
 } /*body close tag*/
 
 .header_top{
+	/* align images*/
 	text-align: center;
+
+	/* border instead of a horizontal line */
+	border-bottom: 3px solid black;
+	padding-bottom: 25px;
 }
 
 .header_images img{
