@@ -74,6 +74,7 @@ body{
 .events_page {
 	position: relative;
 	text-align: center;
+	border-top: 15px solid black;
 }
 
 .events_page img{
@@ -84,4 +85,14 @@ body{
 /* CONTACT PAGE*/
 .contact_page img{
 	width: 100%;
+	border-top: 15px solid black;
+}
+
+.social_media_contact{
+	text-align: center;
+}
+
+.social_media_contact img{
+	width: 25%;
+	height: 100px;
 }
