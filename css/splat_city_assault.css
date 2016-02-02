@@ -50,11 +50,21 @@ body{
 
 }
 
+/* YOUTUBE VIDEO */
+
 .youtube_video_top_home_page{
 	text-align: center;
 	width: 100%;
 
 }
 
+/* TEAM PHOTO */
 
+.team_image{
+	position: relative;
+	text-align: center;
+}
 
+.team_image img{
+	width: 100%;
+}
