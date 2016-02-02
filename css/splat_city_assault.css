@@ -68,3 +68,20 @@ body{
 .team_image img{
 	width: 100%;
 }
+/* ROSTER */
+
+/* EVENTS SCENARIOS */
+.events_page {
+	position: relative;
+	text-align: center;
+}
+
+.events_page img{
+ width: 75%;
+ border: 2px solid white;
+}
+
+/* CONTACT PAGE*/
+.contact_page img{
+	width: 100%;
+}
