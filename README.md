@@ -7,3 +7,8 @@
 - [] schedule screen
 - [] contact screen
 
+
+
+YOUTUBE VIDEO
+- Shooter_Magavin : https://youtu.be/If1QzMbbdNI
+

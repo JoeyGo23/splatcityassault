@@ -1,6 +1,7 @@
 body{
 	height: 100%;
-	background-color: #585858;
+	/*background-color: #585858;*/
+	background-color: #0d0d0d;
 } /*body close tag*/
 
 .header_top{
@@ -47,6 +48,14 @@ body{
 	float: left;
 	width: 180px;
 	color: #fff;
+
+}
+
+.youtube_video_top_home_page{
+	position: absolute;
+	text-align: center;
+	width: 100%;
+
 }
 
 
