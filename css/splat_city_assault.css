@@ -76,6 +76,22 @@ body{
   overflow-x: scroll;
   overflow-y: hidden;
   white-space: nowrap;
+  text-align: center;
+}
+
+.profile_thumb img{
+	width: 200px;
+	height: 200px;
+	position: inherit;
+	z-index: 1;
+
+}
+
+.ribbon span{
+	color: white;
+	font-size: 3em;
+	position: relative;
+	display: block;
 }
 
 
