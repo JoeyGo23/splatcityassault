@@ -69,6 +69,15 @@ body{
 	width: 100%;
 }
 /* ROSTER */
+.ribbon{
+	background: #000;
+  height: 100%;
+  max-width: 100%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
 
 /* EVENTS SCENARIOS */
 .events_page {
